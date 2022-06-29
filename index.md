@@ -8,11 +8,11 @@ date: June 22, 2022
 
 ## Table of contents
 
-- [**How to Prepare for this Workshop**](prep/index.html)
+- [How to Prepare for this Workshop](prep/index.html)
 
-- [**June 22: Version Control 1**](git1/version_control1.html)
+- [June 22: Version Control 1](git1/version_control1.html)
 
-- [June 29: Version Control 2]()
+- [**June 29: Version Control 2**](git2/version_control2.html)
 
 - [July 6: Creating a R Package]()
 
