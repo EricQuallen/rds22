@@ -12,9 +12,9 @@ date: June 22, 2022
 
 - [June 22: Version Control 1](git1/version_control1.html)
 
-- [**June 29: Version Control 2**](git2/version_control2.html)
+- [June 29: Version Control 2](git2/version_control2.html)
 
-- [July 6: Creating a R Package]()
+- [**July 6: Turn Your R Code Into A Package**](rpack1/rpack.html)
 
 - [July 13: Publishing & Maintaining R Package]()
 
