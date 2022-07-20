@@ -14,11 +14,11 @@ date: June 22, 2022
 
 - [June 29: Version Control 2](git2/version_control2.html)
 
-- [**July 6: Turn Your R Code Into A Package**](rpack1/rpack.html)
+- [July 6: Turn Your R Code Into A Package](rpack1/rpack.html)
 
-- [July 13: Publishing & Maintaining R Package]()
+- [July 13: Repository Specific R Packaging](rpack2/repodriven.html)
 
-- [July 20: Markdown & RMarkdown]()
+- [**July 20: Markdown & RMarkdown**](rmd/rmd.html)
 
 - [July 27: Bookdown & Blogdown]()
 
